@@ -1,4 +1,5 @@
 # react-native-app-ui
+![](./img/1.png)
 
 ## Bilgisayarınızda Çalıştırın
 
