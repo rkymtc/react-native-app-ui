@@ -45,7 +45,9 @@ Sunucuyu çalıştırın
 - React Native 
 
 
+## Kullanılan Tasarım
 
+-[DStudio](https://dribbble.com/shots/15458358-App-Ui)
  
 ## Lisans
 
