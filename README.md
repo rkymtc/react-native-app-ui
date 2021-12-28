@@ -1,4 +1,4 @@
-# react-native-app-ui
+# Template
 
 ## Screenshots
 
