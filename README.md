@@ -5,13 +5,13 @@
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/rkymtc/reactworkingfile
+  git clone https://github.com/rkymtc/reactnative-app-ui
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd reactworkingfile
+  cd reactnative-app-ui
 ```
 
 Gerekli paketleri yükleyin
