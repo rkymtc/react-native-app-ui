@@ -47,7 +47,7 @@ Sunucuyu çalıştırın
 
 ## Kullanılan Tasarım
 
--[DStudio](https://dribbble.com/shots/15458358-App-Ui)
+- [DStudio](https://dribbble.com/shots/15458358-App-Ui)
  
 ## Lisans
 
